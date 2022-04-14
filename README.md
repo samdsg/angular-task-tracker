@@ -2,9 +2,6 @@
 
 Angular Task Tracker
 
-## Development server
-
-    ```Json-server```
 
 ## To Install?
 `git clone [Repo link]`
